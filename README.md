@@ -17,7 +17,7 @@
 
 <br>
 
-- I like to self-study and do many projects
+- I like to self-study and do projects that challenge myself
 - Playing Minecraft's at spare time
 - Love to watch Anime
 - Currently learning Java Language
