@@ -33,7 +33,7 @@
 
 - **Languages**:
     
-    ![C](https://media.discordapp.net/attachments/1015842003143098398/1056825986517307472/download.png)
+    ![C](https://media.discordapp.net/attachments/1015842003143098398/1056827005347303504/java_original_logo_icon_146458.png)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
