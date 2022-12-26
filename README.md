@@ -14,7 +14,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <!--<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>-->
-<picture> <img align="right" src="https://media.discordapp.net/attachments/1015842003143098398/1056836806462689280/anime-sleep-31.gif"></picture>
+<picture> <img align="right" src="https://cdn.discordapp.com/attachments/1015842003143098398/1056836806462689280/anime-sleep-31.gif"></picture>
 <br>
 
 - I like to self-study and do projects that challenge myself
