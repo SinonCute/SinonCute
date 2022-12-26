@@ -13,8 +13,8 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<!--<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>-->
-<picture> <img align="right" src="https://acegif.com/wp-content/uploads/gif/anime-sleep-31.gif"></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<!--<picture> <img align="right" src="https://acegif.com/wp-content/uploads/gif/anime-sleep-31.gif"></picture>-->
 <br>
 
 - I like to self-study and do projects that challenge myself
