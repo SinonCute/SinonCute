@@ -19,6 +19,7 @@
 
 - I like to self-study and do many projects
 - Playing Minecraft's at spare time
+- Love to watch Anime
 - Currently learning Java Language
 - Personal website [link](https://www.hiencao.me)
 
