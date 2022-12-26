@@ -131,7 +131,7 @@
 
 <div align='center'>
 
-## <b>Wibu mai dinh~~...✨</b>
+## <b>Wibu mai dinh...✨</b>
 
 </div>
 <br>
