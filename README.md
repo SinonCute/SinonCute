@@ -111,7 +111,7 @@
 
 <li>
 <a href="https://discord.com/users/305665547465523202" target="_blank">
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Discord:%20sinoncute-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=discord&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
