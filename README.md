@@ -20,7 +20,7 @@
 - Playing Minecraft's at spare time
 - Love to watch Anime and sleep
 - Currently learning Java Language
-- Personal website [link](https://www.hiencao.me)
+- Personal website [link](https://hiencao.me)
 
 <br><br>
 
